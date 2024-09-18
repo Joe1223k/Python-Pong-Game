@@ -1,11 +1,3 @@
-# Python Pong Game
+# Python-Pong-Game
 
-Pythonの学習のため、Pygameを使って作成したシンプルなPongゲームです。
-
-![ゲームのスクリーンショット](./images/python_pong_image.png)
-
-## 遊び方
-
-上キーと下キーを使ってパドルを動かします。  
-先に10ポイントを取ったプレイヤーが勝ちです。  
-Enterキーを押してゲームを開始し、ゲームオーバー後もタイトル画面に戻ることができます。
+![Screenshot](./images/python_pong_image.png)
